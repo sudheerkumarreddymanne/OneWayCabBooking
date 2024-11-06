@@ -1,0 +1,278 @@
+2024-11-05 09:46:48 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 09:46:48 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 09:46:48 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 09:46:49 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 09:46:49 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 09:46:50 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 09:46:52 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 09:46:53 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 09:46:54 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 09:47:54 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 09:47:55 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 09:47:55 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 09:47:55 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 09:47:55 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 09:48:03 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 09:48:03 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 09:48:07 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 09:48:07 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 09:48:09 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 09:48:11 INFO  TC002_GiftCardTest:44 - Entering delivery details
+2024-11-05 09:48:12 INFO  TC002_GiftCardTest:48 - Displaying message
+2024-11-05 09:48:13 INFO  TC002_GiftCardTest:64 - Gift card purchase test completed successfully
+2024-11-05 09:48:21 INFO  TC003_HotelSelectionTest:19 - ******TC003_HOTEL_SELECTION********
+2024-11-05 09:48:21 INFO  TC003_HotelSelectionTest:27 - Handling popup
+2024-11-05 09:48:24 INFO  TC003_HotelSelectionTest:31 - Selecting Hotel option
+2024-11-05 09:48:24 INFO  TC003_HotelSelectionTest:35 - Selecting number of guests
+2024-11-05 09:48:25 INFO  TC003_HotelSelectionTest:39 - Selecting adult option
+2024-11-05 09:48:25 INFO  TC003_HotelSelectionTest:55 - Applying guest selection
+2024-11-05 09:48:26 INFO  TC003_HotelSelectionTest:59 - Hotel booking test completed successfully
+2024-11-05 09:48:32 INFO  TC004_HomePageVerification:19 - ******TC004_HOME_PAGE_VERIFICATION********
+2024-11-05 09:48:32 INFO  TC004_HomePageVerification:26 - Handling popup
+2024-11-05 09:48:34 INFO  TC004_HomePageVerification:39 - Home Page is verified
+2024-11-05 10:02:47 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:02:47 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:02:50 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:02:51 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:02:52 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:02:54 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:02:56 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:02:57 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:02:59 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 10:03:35 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 10:03:36 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 10:03:36 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 10:03:38 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 10:03:38 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 10:05:36 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:05:36 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:05:37 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 10:05:37 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 10:05:42 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 10:05:45 ERROR TC002_GiftCardTest:70 - Gift Card Selection Test Failed
+2024-11-05 10:06:23 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:06:23 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:06:26 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:06:27 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:06:28 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:06:30 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:06:32 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:06:33 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:06:35 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 10:06:35 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 10:07:09 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 10:07:09 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 10:07:11 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 10:07:11 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 10:07:29 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:07:29 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:07:31 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 10:07:32 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 10:07:36 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 10:07:38 INFO  TC002_GiftCardTest:44 - Entering delivery details
+2024-11-05 10:07:40 INFO  TC002_GiftCardTest:48 - Displaying message
+2024-11-05 10:07:40 INFO  TC002_GiftCardTest:64 - Gift card purchase test completed successfully
+2024-11-05 10:07:57 INFO  TC003_HotelSelectionTest:19 - ******TC003_HOTEL_SELECTION********
+2024-11-05 10:07:57 INFO  TC003_HotelSelectionTest:27 - Handling popup
+2024-11-05 10:08:01 INFO  TC003_HotelSelectionTest:31 - Selecting Hotel option
+2024-11-05 10:08:02 INFO  TC003_HotelSelectionTest:35 - Selecting number of guests
+2024-11-05 10:08:04 INFO  TC003_HotelSelectionTest:39 - Selecting adult option
+2024-11-05 10:08:07 INFO  TC003_HotelSelectionTest:55 - Applying guest selection
+2024-11-05 10:08:08 INFO  TC003_HotelSelectionTest:59 - Hotel booking test completed successfully
+2024-11-05 10:08:34 INFO  TC004_HomePageVerification:19 - ******TC004_HOME_PAGE_VERIFICATION********
+2024-11-05 10:08:34 INFO  TC004_HomePageVerification:26 - Handling popup
+2024-11-05 10:08:39 INFO  TC004_HomePageVerification:39 - Home Page is verified
+2024-11-05 10:10:20 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:10:20 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:10:24 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:10:25 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:10:27 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:10:29 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:10:49 ERROR TC001_CabBookingTest:102 - Test case 001 failed
+2024-11-05 10:11:53 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:11:54 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:11:57 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:11:57 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:11:59 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:12:01 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:12:21 ERROR TC001_CabBookingTest:102 - Test case 001 failed
+2024-11-05 10:12:54 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:12:54 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:12:57 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:12:58 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:13:00 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:13:01 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:13:03 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:13:04 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:13:07 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 10:13:41 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 10:13:41 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 10:13:41 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 10:13:43 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 10:13:43 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 10:14:02 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:14:02 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:14:05 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 10:14:06 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 10:14:33 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 10:14:35 INFO  TC002_GiftCardTest:44 - Entering delivery details
+2024-11-05 10:14:38 INFO  TC002_GiftCardTest:48 - Displaying message
+2024-11-05 10:14:39 INFO  TC002_GiftCardTest:64 - Gift card purchase test completed successfully
+2024-11-05 10:14:57 INFO  TC003_HotelSelectionTest:19 - ******TC003_HOTEL_SELECTION********
+2024-11-05 10:14:57 INFO  TC003_HotelSelectionTest:27 - Handling popup
+2024-11-05 10:15:00 INFO  TC003_HotelSelectionTest:31 - Selecting Hotel option
+2024-11-05 10:15:01 INFO  TC003_HotelSelectionTest:35 - Selecting number of guests
+2024-11-05 10:15:02 INFO  TC003_HotelSelectionTest:39 - Selecting adult option
+2024-11-05 10:15:04 INFO  TC003_HotelSelectionTest:55 - Applying guest selection
+2024-11-05 10:15:05 INFO  TC003_HotelSelectionTest:59 - Hotel booking test completed successfully
+2024-11-05 10:15:22 INFO  TC004_HomePageVerification:19 - ******TC004_HOME_PAGE_VERIFICATION********
+2024-11-05 10:15:22 INFO  TC004_HomePageVerification:26 - Handling popup
+2024-11-05 10:15:25 INFO  TC004_HomePageVerification:39 - Home Page is verified
+2024-11-05 10:21:59 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:21:59 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:22:00 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:22:01 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:22:02 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:22:04 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:22:06 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:22:07 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:22:09 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 10:22:42 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 10:22:42 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 10:22:42 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 10:22:44 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 10:22:44 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 10:23:00 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:23:00 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:23:03 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 10:23:05 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 10:23:37 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 10:23:39 INFO  TC002_GiftCardTest:44 - Entering delivery details
+2024-11-05 10:23:42 INFO  TC002_GiftCardTest:48 - Displaying message
+2024-11-05 10:23:42 INFO  TC002_GiftCardTest:64 - Gift card purchase test completed successfully
+2024-11-05 10:23:57 INFO  TC003_HotelSelectionTest:19 - ******TC003_HOTEL_SELECTION********
+2024-11-05 10:23:57 INFO  TC003_HotelSelectionTest:27 - Handling popup
+2024-11-05 10:24:01 INFO  TC003_HotelSelectionTest:31 - Selecting Hotel option
+2024-11-05 10:24:02 INFO  TC003_HotelSelectionTest:35 - Selecting number of guests
+2024-11-05 10:24:02 INFO  TC003_HotelSelectionTest:39 - Selecting adult option
+2024-11-05 10:24:04 INFO  TC003_HotelSelectionTest:55 - Applying guest selection
+2024-11-05 10:24:05 INFO  TC003_HotelSelectionTest:59 - Hotel booking test completed successfully
+2024-11-05 10:24:21 INFO  TC004_HomePageVerification:19 - ******TC004_HOME_PAGE_VERIFICATION********
+2024-11-05 10:24:21 INFO  TC004_HomePageVerification:26 - Handling popup
+2024-11-05 10:24:25 INFO  TC004_HomePageVerification:39 - Home Page is verified
+2024-11-05 10:27:23 INFO  TC004_HomePageVerification:19 - ******TC004_HOME_PAGE_VERIFICATION********
+2024-11-05 10:27:24 INFO  TC004_HomePageVerification:26 - Handling popup
+2024-11-05 10:27:33 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:27:33 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:27:44 ERROR TC004_HomePageVerification:46 - Test case 004 failed
+2024-11-05 10:27:53 ERROR TC002_GiftCardTest:70 - Gift Card Selection Test Failed
+2024-11-05 10:28:21 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:28:24 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:28:38 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:28:38 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:28:45 ERROR TC001_CabBookingTest:102 - Test case 001 failed
+2024-11-05 10:31:13 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:31:13 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:31:15 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:31:17 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:31:17 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:31:19 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:31:21 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:31:22 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:31:24 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 10:31:58 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 10:31:59 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 10:31:59 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 10:32:01 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 10:32:01 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 10:32:18 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:32:18 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:32:21 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 10:32:23 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 10:32:26 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 10:32:28 INFO  TC002_GiftCardTest:44 - Entering delivery details
+2024-11-05 10:32:30 INFO  TC002_GiftCardTest:48 - Displaying message
+2024-11-05 10:32:30 INFO  TC002_GiftCardTest:64 - Gift card purchase test completed successfully
+2024-11-05 10:32:45 INFO  TC003_HotelSelectionTest:19 - ******TC003_HOTEL_SELECTION********
+2024-11-05 10:32:45 INFO  TC003_HotelSelectionTest:27 - Handling popup
+2024-11-05 10:32:48 INFO  TC003_HotelSelectionTest:31 - Selecting Hotel option
+2024-11-05 10:32:49 INFO  TC003_HotelSelectionTest:35 - Selecting number of guests
+2024-11-05 10:32:50 INFO  TC003_HotelSelectionTest:39 - Selecting adult option
+2024-11-05 10:32:52 INFO  TC003_HotelSelectionTest:55 - Applying guest selection
+2024-11-05 10:32:52 INFO  TC003_HotelSelectionTest:59 - Hotel booking test completed successfully
+2024-11-05 10:33:04 INFO  TC004_HomePageVerification:19 - ******TC004_HOME_PAGE_VERIFICATION********
+2024-11-05 10:33:04 INFO  TC004_HomePageVerification:26 - Handling popup
+2024-11-05 10:33:11 INFO  TC004_HomePageVerification:39 - Home Page is verified
+2024-11-05 10:35:09 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:35:09 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:35:11 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:35:12 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:35:13 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:35:15 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:35:35 ERROR TC001_CabBookingTest:102 - Test case 001 failed
+2024-11-05 10:35:59 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:36:00 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:36:03 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:36:03 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:36:05 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:36:07 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:36:09 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:36:10 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:36:12 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 10:36:46 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 10:36:46 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 10:36:46 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 10:36:48 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 10:36:48 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 10:37:13 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:37:13 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:37:18 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 10:37:19 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 10:37:54 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 10:37:56 INFO  TC002_GiftCardTest:44 - Entering delivery details
+2024-11-05 10:37:59 INFO  TC002_GiftCardTest:48 - Displaying message
+2024-11-05 10:37:59 INFO  TC002_GiftCardTest:64 - Gift card purchase test completed successfully
+2024-11-05 10:38:38 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:38:38 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:38:38 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:38:39 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:38:41 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:38:43 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:38:45 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:38:46 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:38:49 ERROR TC001_CabBookingTest:102 - Test case 001 failed
+2024-11-05 10:39:01 INFO  TC003_HotelSelectionTest:19 - ******TC003_HOTEL_SELECTION********
+2024-11-05 10:39:01 INFO  TC003_HotelSelectionTest:27 - Handling popup
+2024-11-05 10:39:21 ERROR TC003_HotelSelectionTest:65 - Test case 003 failed
+2024-11-05 10:39:28 INFO  TC001_CabBookingTest:17 - ******TC001_CAB_BOOKING********
+2024-11-05 10:39:29 INFO  TC001_CabBookingTest:29 - Handling popup
+2024-11-05 10:39:37 INFO  TC001_CabBookingTest:33 - Selecting Cabs option
+2024-11-05 10:39:37 INFO  TC001_CabBookingTest:37 - Selecting one-way trip
+2024-11-05 10:39:39 INFO  TC001_CabBookingTest:41 - Entering 'From' location
+2024-11-05 10:39:42 INFO  TC001_CabBookingTest:45 - Entering 'To' location
+2024-11-05 10:39:44 INFO  TC001_CabBookingTest:49 - Selecting departure date
+2024-11-05 10:39:46 INFO  TC001_CabBookingTest:53 - Selecting pick-up time
+2024-11-05 10:39:48 INFO  TC001_CabBookingTest:57 - Searching for cabs
+2024-11-05 10:40:23 INFO  TC001_CabBookingTest:61 - Sorting results
+2024-11-05 10:40:23 INFO  TC001_CabBookingTest:65 - Selecting car type
+2024-11-05 10:40:24 INFO  TC001_CabBookingTest:69 - Viewing car details
+2024-11-05 10:40:26 INFO  TC001_CabBookingTest:93 - Cab booking test completed successfully
+2024-11-05 10:40:26 INFO  TC001_CabBookingTest:96 - ******TC001_COMPLETED********
+2024-11-05 10:40:46 INFO  TC002_GiftCardTest:20 - ******TC002_GIFT_CARD_SELECTION********
+2024-11-05 10:40:46 INFO  TC002_GiftCardTest:28 - Handling popup
+2024-11-05 10:40:49 INFO  TC002_GiftCardTest:32 - Selecting Gift Card option
+2024-11-05 10:40:50 INFO  TC002_GiftCardTest:36 - Selecting gift card
+2024-11-05 10:41:25 INFO  TC002_GiftCardTest:40 - Selecting email button for delivery
+2024-11-05 10:41:28 INFO  TC002_GiftCardTest:44 - Entering delivery details
+2024-11-05 10:41:30 INFO  TC002_GiftCardTest:48 - Displaying message
+2024-11-05 10:41:31 INFO  TC002_GiftCardTest:64 - Gift card purchase test completed successfully
+2024-11-05 10:41:46 INFO  TC003_HotelSelectionTest:19 - ******TC003_HOTEL_SELECTION********
+2024-11-05 10:41:46 INFO  TC003_HotelSelectionTest:27 - Handling popup
+2024-11-05 10:41:49 INFO  TC003_HotelSelectionTest:31 - Selecting Hotel option
+2024-11-05 10:41:49 INFO  TC003_HotelSelectionTest:35 - Selecting number of guests
+2024-11-05 10:41:51 INFO  TC003_HotelSelectionTest:39 - Selecting adult option
+2024-11-05 10:41:53 INFO  TC003_HotelSelectionTest:55 - Applying guest selection
+2024-11-05 10:41:53 INFO  TC003_HotelSelectionTest:59 - Hotel booking test completed successfully
+2024-11-05 10:42:10 INFO  TC004_HomePageVerification:19 - ******TC004_HOME_PAGE_VERIFICATION********
+2024-11-05 10:42:10 INFO  TC004_HomePageVerification:26 - Handling popup
+2024-11-05 10:42:14 INFO  TC004_HomePageVerification:39 - Home Page is verified
